@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.zed2345.com/images/svg/peacecat2345.svg">
+<img src="https://www.zed2345.com/images/svg/costume55.svg">
 <br>
 <h1>Welcome to my GitHub page!</h1>
+
+I'm currently working on nothing lmao
+I am learning adobe stuff (photoshop, illustrator animate, after effects, etc.)
