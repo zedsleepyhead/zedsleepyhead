@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 I'm currently working on nothing lmao<br>
 I am learning adobe stuff (photoshop, illustrator animate, after effects, etc.)<br>
-<br><h2>Meower<br><p> Meower is free FOSS social media at https://meower.org<br>Go to https://github.com/meower-media-co to see the source code
+<br><h2>Meower<br></h2>Meower is free FOSS social media at https://meower.org<br>Go to https://github.com/meower-media-co to see the source code
