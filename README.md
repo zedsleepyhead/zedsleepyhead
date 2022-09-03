@@ -12,29 +12,29 @@ I am learning adobe stuff (photoshop, illustrator animate, after effects, etc.)<
 These are programs I generally use for graphic design, or web design.
 
 <h3>Figma</h3>
-Figma is a graphic design tool mainly used for collaborative UI prototyping.
-Took me a while to learn as we made a sudden switch to this in Meower.
-I've used this for many UI designs within Meower.
+Figma is a graphic design tool mainly used for collaborative UI prototyping.<br>
+Took me a while to learn as we made a sudden switch to this in Meower.<br>
+I've used this for many UI designs within Meower.<br>
 
 <h3>Scratch</h3>
-Scratch is a block-based programming language.
-I've used Scratch for almost 4 years now, and am very good at it.
-I'm paticularly good at the Scratch vector editor, even with it's multitude of limitations.
+Scratch is a block-based programming language.<br>
+I've used Scratch for almost 4 years now, and am very good at it.<br>
+I'm paticularly good at the Scratch vector editor, even with it's multitude of limitations.<br>
 
 <h3>Pixlr</h3>
-Pixlr is a photoshop-esque online tool.
-I've used this to edit some photos, or create UI concepts, however I've sense changed to Photoshop and Figma.
-Pixlr is very similar to photoshop, and it made for an easy transition from Pixlr to PS.
+Pixlr is a photoshop-esque online tool.<br>
+I've used this to edit some photos, or create UI concepts, however I've sense changed to Photoshop and Figma.<br>
+Pixlr is very similar to photoshop, and it made for an easy transition from Pixlr to PS.<br>
 
 <h3>Repl.it</h3>
-Repl.it is a collaborative online coding website, with a lot of languages to choose from.
-I mainly use repl.it for coding HTML webpages, as well as making the CSS for them.
-I'm not that good at JS.
+Repl.it is a collaborative online coding website, with a lot of languages to choose from.<br>
+I mainly use repl.it for coding HTML webpages, as well as making the CSS for them.<br>
+I'm not that good at JS.<br>
 
 <h3>Adobe Dreamweaver</h3>
-Dreamweaver is a website code editor, for HTML, CSS, JS, Bootstrap, etc.
-I use this for it's WYSIWYG aspect, for easy editing.
+Dreamweaver is a website code editor, for HTML, CSS, JS, Bootstrap, etc.<br>
+I use this for it's WYSIWYG aspect, for easy editing.<br>
 
 <h3>Adobe After Effects</h3>
-Adobe After Effects is a VFX and motion graphic video editor.
-I mainly use it to make Meower-related videos and announcments.
+Adobe After Effects is a VFX and motion graphic video editor.<br>
+I mainly use it to make Meower-related videos and announcments.<br>
