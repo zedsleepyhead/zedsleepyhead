@@ -33,8 +33,16 @@ I'm not that good at JS.<br>
 
 <h3>Adobe Dreamweaver</h3>
 Dreamweaver is a website code editor, for HTML, CSS, JS, Bootstrap, etc.<br>
-I use this for it's WYSIWYG aspect, for easy editing.<br>
+Self-taught, I use this for it's WYSIWYG aspect, for easy editing.<br>
 
 <h3>Adobe After Effects</h3>
 Adobe After Effects is a VFX and motion graphic video editor.<br>
-I mainly use it to make Meower-related videos and announcments.<br>
+Self-teaching, I mainly use it to make Meower-related videos and announcments.<br>
+
+<h3>Adobe InDesign</h3>
+Adobe InDesign is a layout and page design software for print and digital media.
+Self-teaching, I use this to make templates for Meower documents.
+
+<h3>Adobe Photoshop</h3>
+I don't really need to explain that
+Self-teaching, very much a beginner, I use this for photo editing.
