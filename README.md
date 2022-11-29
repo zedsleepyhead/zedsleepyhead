@@ -40,9 +40,9 @@ Adobe After Effects is a VFX and motion graphic video editor.<br>
 Self-teaching, I mainly use it to make Meower-related videos and announcments.<br>
 
 <h3>Adobe InDesign</h3>
-Adobe InDesign is a layout and page design software for print and digital media.
-Self-teaching, I use this to make templates for Meower documents.
+Adobe InDesign is a layout and page design software for print and digital media.<br>
+Self-teaching, I use this to make templates for Meower documents.<br>
 
 <h3>Adobe Photoshop</h3>
-I don't really need to explain that
+I don't really need to explain Photoshop.<br>
 Self-teaching, very much a beginner, I use this for photo editing.
